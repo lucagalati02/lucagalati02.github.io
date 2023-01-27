@@ -108,6 +108,7 @@ html{
     justify-content: space-around;
     align-items: center;
     z-index: 2;
+    pointer-events: none;
 }
 
 .content2{
@@ -356,7 +357,7 @@ html{
 /*Iphone 14 pro*/
 @media(max-height: 852px) and (max-width: 393px){
     .content{
-        margin-top: 16.5rem;
+        margin-top: 13rem;
     }
 }
 
