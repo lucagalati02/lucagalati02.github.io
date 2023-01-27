@@ -353,8 +353,8 @@ html{
     }
 }
 
-/*Iphone 12 pro*/
-@media(max-height: 844px) and (max-width: 390px){
+/*Iphone 14 pro*/
+@media(max-height: 852px) and (max-width: 393px){
     .content{
         margin-top: 15rem;
     }
