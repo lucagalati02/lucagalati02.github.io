@@ -339,13 +339,6 @@ html{
 }
 
 /*---------------------------Devices-----------------------------*/
-/*Galaxy S20 ultra*/
-@media(max-height: 915px) and (max-width: 412px){
-    .content{
-        margin-top: 7rem;
-    }
-}
-
 /*Iphone XR*/
 @media(max-height: 896px) and (max-width: 414px){
     .content{
@@ -353,10 +346,17 @@ html{
     }
 }
 
-/*Galaxy S8+*/
-@media(max-height: 740px) and (max-width: 360px){
+/*Galaxy S20 ultra*/
+@media(max-height: 915px) and (max-width: 412px){
     .content{
-        margin-top: 16rem;
+        margin-top: 7rem;
+    }
+}
+
+/*Iphone SE*/
+@media(max-height: 844px) and (max-width: 390px){
+    .content{
+        margin-top: 12rem;
     }
 }
 
@@ -364,6 +364,13 @@ html{
 @media(max-height: 667px) and (max-width: 375px){
     .content{
         margin-top: 21rem;
+    }
+}
+
+/*Galaxy S8+*/
+@media(max-height: 740px) and (max-width: 360px){
+    .content{
+        margin-top: 16rem;
     }
 }
 
