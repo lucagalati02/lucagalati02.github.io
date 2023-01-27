@@ -353,10 +353,10 @@ html{
     }
 }
 
-/*Iphone SE*/
+/*Iphone 12 pro*/
 @media(max-height: 844px) and (max-width: 390px){
     .content{
-        margin-top: 12rem;
+        margin-top: 15rem;
     }
 }
 
