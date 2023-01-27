@@ -496,6 +496,7 @@ html{
     .skill-item svg{
         width: 5rem;
         font-size: smaller;
+        overflow: hidden;
     }
 }
 @media(max-width: 590px){
