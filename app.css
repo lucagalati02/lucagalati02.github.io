@@ -356,7 +356,7 @@ html{
 /*Iphone 14 pro*/
 @media(max-height: 852px) and (max-width: 393px){
     .content{
-        margin-top: 15rem;
+        margin-top: 16.5rem;
     }
 }
 
