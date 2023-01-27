@@ -346,12 +346,18 @@ html{
     .content{
         margin-top: 10rem;
     }
+    .degree-info{
+        margin-top: 25rem;
+    }
 }
 
 /*Galaxy S20 ultra*/
 @media(max-height: 915px) and (max-width: 412px){
     .content{
         margin-top: 7rem;
+    }
+    .degree-info{
+        margin-top: 22rem;
     }
 }
 
@@ -360,12 +366,18 @@ html{
     .content{
         margin-top: 13rem;
     }
+    .degree-info{
+        margin-top: 26rem;
+    }
 }
 
 /*Iphone SE*/
 @media(max-height: 667px) and (max-width: 375px){
     .content{
         margin-top: 21rem;
+    }
+    .degree-info{
+        margin-top: 40rem;
     }
 }
 
