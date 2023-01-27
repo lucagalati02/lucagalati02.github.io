@@ -52,6 +52,18 @@ html{
     background: radial-gradient(at center, rgba(140, 190, 182, 0.907), #e1dcd1);
 }
 
+.body2{
+    background: radial-gradient(at left, rgba(140, 190, 182, 0.907), #e1dcd1);
+}
+
+.body3{
+    background: radial-gradient(at right, rgba(140, 190, 182, 0.907), #e1dcd1);
+}
+
+.body4{
+    background: radial-gradient(at left, rgba(140, 190, 182, 0.907), #e1dcd1);
+}
+
 .container{
     height: 91.5vh;
     display: flex;
