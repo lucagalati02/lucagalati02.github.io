@@ -221,6 +221,10 @@ html{
     padding-left: 2rem;
 }
 
+.self-logo{
+    width: 3rem;
+}
+
 .nav-item:hover{
     color: rgb(31, 31, 31);
     transition: color 200ms ease-in-out;
@@ -530,7 +534,7 @@ html{
 @media (max-width: 883px){
     .project-cards{
         flex-direction: column;
-        margin-top: 28rem;
+        margin-top: 45rem;
     }
     .p-card .project-image{
         width: 21.3333rem;
