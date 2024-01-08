@@ -53,12 +53,16 @@ function Navbar() {
 		<NavbarContent justify='end'>
 			<NavbarItem>
 				<Button isIconOnly radius='full'>
-					<img src="linkedin.svg" width='40rem' />
+					<Link href='https://www.linkedin.com/in/luca-galati2002/' target='_blank' >
+						<img src="linkedin.svg" width='40rem' />
+					</Link>
 				</Button>
 			</NavbarItem>
 			<NavbarItem>
 				<Button isIconOnly radius='full'>
-					<img src="github.svg" width='40rem' />
+					<Link href='https://github.com/lucagalati02' target='_blank'>
+						<img src="github.svg" width='40rem' />
+					</Link>
 				</Button>
 			</NavbarItem>
 		</NavbarContent>
