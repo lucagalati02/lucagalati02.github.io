@@ -1,8 +1,12 @@
+import Header from '@/components/header'
+import DefaultLayout from '@/layouts/default'
 import React from 'react'
 
 function Skills() {
   return (
-    <div>Skills</div>
+    <DefaultLayout>
+			<Header title='Skills' subtitle=''/>
+		</DefaultLayout>
   )
 }
 

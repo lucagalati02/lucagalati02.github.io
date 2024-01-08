@@ -1,8 +1,12 @@
+import Header from '@/components/header'
+import DefaultLayout from '@/layouts/default'
 import React from 'react'
 
 function Projects() {
   return (
-    <div>Projects</div>
+    <DefaultLayout>
+			<Header title='Projects' subtitle=''/>
+		</DefaultLayout>
   )
 }
 

@@ -1,10 +1,11 @@
+import Header from '@/components/header'
 import DefaultLayout from '@/layouts/default'
 import React from 'react'
 
 function Education() {
   return (
     <DefaultLayout>
-			Hello
+			<Header title='Education' subtitle=''/>
 		</DefaultLayout>
   )
 }

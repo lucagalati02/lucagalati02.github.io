@@ -24,6 +24,6 @@
     background-size: 200% auto;
   }
   .animate-gradient {
-    animation: gradient 8s linear infinite;
+    animation: gradient 6s linear infinite;
   }
 }
