@@ -27,7 +27,7 @@ function ContactForm() {
     });
     notify();
   };
-  const notify = () => toast.success('Email Sent!', {
+  const notify = () => toast.success('✉️ Email Sent!', {
     position: "top-right",
     autoClose: 3000,
     hideProgressBar: false,
