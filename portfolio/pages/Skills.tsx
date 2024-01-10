@@ -10,7 +10,7 @@ function Skills() {
 			<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <Header title='Skills' subtitle=''/>
         <div style={{marginRight:'0.5rem', marginLeft: '0.5rem'}}></div>
-        <Tooltip placement='bottom' content="Java, Python, C, HTML, CSS, Javascript, Typescript, MATLAB, SQL, Shell Scripts, Latex, Git, Microsoft Azure, Flask, React, Node, Express, Next, Power BI, Figma">
+        <Tooltip placement='bottom' content="Java, Python, C, HTML, CSS, Javascript, Typescript, MATLAB, SQL, Shell Scripts, Latex, Git, Microsoft Azure, Flask, React.JS, Node.JS, Express.JS, Next.JS, Power BI, Figma">
           <Button isIconOnly>☰</Button>
         </Tooltip>
       </div>
