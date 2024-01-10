@@ -10,7 +10,7 @@ function Education() {
 			<Header title='Education' subtitle=''/>
       <div style={{
                 backgroundColor: 'rgba(0, 255, 0, 0.0)', 
-                border: '1px dashed green', 
+                border: '0px dashed green', 
                 height: '90%', 
                 width: '100%', 
                 margin: '1rem 0',

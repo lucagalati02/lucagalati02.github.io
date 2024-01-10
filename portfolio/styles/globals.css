@@ -27,3 +27,9 @@
     animation: gradient 6s linear infinite;
   }
 }
+
+@layer utilities {
+  .paused {
+    animation-play-state: paused;
+  }
+}
