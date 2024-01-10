@@ -17,7 +17,7 @@ function Skills() {
       <div style={{
                 backgroundColor: 'rgba(0, 255, 0, 0.0)', 
                 border: '0px dashed green', 
-                height: '85%',
+                height: '80%',
                 width: '100%',
                 margin: '1rem 0',
                 display: 'flex',
