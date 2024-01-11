@@ -18,13 +18,13 @@ function Project({ project_name, image_path, description, technologies, github_l
       isFooterBlurred
       radius="lg"
       className="border-none"
-      style={{ width: "500px", height: "315px" }}
+      style={{ width: "500px", height: "350px" }}
     >
       <button onClick={onOpen}>
         <Image
-            alt="Woman listing to music"
+            alt={image_path}
             className="object-cover"
-            height={200}
+            width='100%'
             src={image_path}
             isZoomed
         />
